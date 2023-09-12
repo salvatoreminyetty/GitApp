@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Az400\\GitApp\\GitApp\\GitApp.csproj": {}
+    "C:\\Users\\salva\\Source\\Repos\\salvatoreminyetty\\GitApp\\GitApp\\GitApp.csproj": {}
   },
   "projects": {
-    "C:\\Az400\\GitApp\\GitApp\\GitApp.csproj": {
+    "C:\\Users\\salva\\Source\\Repos\\salvatoreminyetty\\GitApp\\GitApp\\GitApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Az400\\GitApp\\GitApp\\GitApp.csproj",
+        "projectUniqueName": "C:\\Users\\salva\\Source\\Repos\\salvatoreminyetty\\GitApp\\GitApp\\GitApp.csproj",
         "projectName": "GitApp",
-        "projectPath": "C:\\Az400\\GitApp\\GitApp\\GitApp.csproj",
+        "projectPath": "C:\\Users\\salva\\Source\\Repos\\salvatoreminyetty\\GitApp\\GitApp\\GitApp.csproj",
         "packagesPath": "C:\\Users\\salva\\.nuget\\packages\\",
-        "outputPath": "C:\\Az400\\GitApp\\GitApp\\obj\\",
+        "outputPath": "C:\\Users\\salva\\Source\\Repos\\salvatoreminyetty\\GitApp\\GitApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\salva\\AppData\\Roaming\\NuGet\\NuGet.Config",
