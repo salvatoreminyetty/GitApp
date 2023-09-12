@@ -18,4 +18,4 @@ jobs:
           with:
             azure-devops-project-url: https://dev.azure.com/salvatoreminyettyAZR/Az400
             azure-pipeline-name: 'buildapp'
-            azure-devops-token: ${{ secrets.AZURE_DEVOPS_TOKEN }}
+            azure-devops-token: ${{ secrets.AZURE_DEVOPS_SECRET }}
